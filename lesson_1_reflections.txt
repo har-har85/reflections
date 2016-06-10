@@ -1,0 +1,20 @@
+diff command was cool 
+
+.bash_profile really seems promising. 
+
+git diff
+
+one commit per "logical change"
+
+manual commits is the shnizznezz vs automatic commits
+
+Tracking acrros files:
+	
+///installing gulp need node installed
+nam install -g gulp
+///then install it into project
+///
+npm install — save-dev gulp
+
+cd project/
+npm init 
